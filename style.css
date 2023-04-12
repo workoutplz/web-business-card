@@ -45,13 +45,14 @@ body, h1, h2, h3, h4, h5, h6, input, textarea, select {
 }
 
 .card img {
-    height: 171px;
+    height: 256px;
     width: 256px;
     margin-bottom: 10px;
 }
 
 .content {
     margin: 15px;
+    text-align: center;
 }
 
 .circle {
